@@ -2,13 +2,13 @@
 
 </br>
 
-## PROJECT
+# PROJECT
 #### [FOTOFIVE](https://github.com/pknu-wap/FOTOFIVE)
 #### [2-9blog](https://github.com/Jii-Yeong/2-9blog)
 
 </br>
 
-## LEARNING
+# LEARNING
 #### [알고리즘 문제풀이](https://github.com/Jii-Yeong/Algorithm)
 
 <!--
