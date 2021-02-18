@@ -1,4 +1,15 @@
-### Hi there 👋
+### 반갑습니다!😄
+
+</br>
+
+## PROJECT
+#### [FOTOFIVE](https://github.com/pknu-wap/FOTOFIVE)
+#### [2-9blog](https://github.com/Jii-Yeong/2-9blog)
+
+</br>
+
+## LEARNING
+#### [알고리즘 문제풀이](https://github.com/Jii-Yeong/Algorithm)
 
 <!--
 **Jii-Yeong/Jii-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
