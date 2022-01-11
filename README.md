@@ -1,5 +1,8 @@
-### Hi there 👋
+### 반갑습니다 👋
 
+## CONTACT
+- blog : https://velog.io/@jii-yeong
+- email : jiiyeong5134@gmail.com
 <!--
 **Jii-Yeong/Jii-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
