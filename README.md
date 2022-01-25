@@ -3,26 +3,37 @@
 <div align=center>
 
 ### ⚔TECH STACK
-
+  
+<div align=center>
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
+
+</div>
+  
+<div align=center>
+
 ![Java](https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=ffffff) 
 
 </div>
+</div>
 
+<br>
 
 <div align=center>
   
 ### 📖PROCECT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-frontend)](https://github.com/jii-yeong/my-own-note-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-backend)](https://github.com/jii-yeong/my-own-note-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-frontend&theme=buefy)](https://github.com/jii-yeong/my-own-note-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-backend&theme=buefy)](https://github.com/jii-yeong/my-own-note-backend)
 
 </div>
+
+<br>
 
 <div align=center>
   
@@ -32,6 +43,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jii-Yeong&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<br>
+
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJii-Yeong%2Fhit-counter&count_bg=%236667AB&title_bg=%236667AB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
