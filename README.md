@@ -2,7 +2,7 @@
 
 <div align=center>
 
-### TECH
+### ⚔TECH STACK
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
@@ -17,7 +17,7 @@
 
 <div align=center>
   
-### PROCECT
+### 📖PROCECT
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-frontend)](https://github.com/jii-yeong/my-own-note-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-backend)](https://github.com/jii-yeong/my-own-note-backend)
@@ -26,10 +26,10 @@
 
 <div align=center>
   
-### GITHUB INFOMATION
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jii-Yeong&bg_color=DEG,b8c0ff,ffcbf2&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+### 🔎GITHUB INFOMATION
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jii-Yeong&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=DEG,b8c0ff,ffcbf2&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jii-Yeong&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align=center>
