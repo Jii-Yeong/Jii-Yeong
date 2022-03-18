@@ -39,7 +39,7 @@
 ### 📖PROCECT
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-frontend&theme=buefy)](https://github.com/jii-yeong/my-own-note-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-backend&theme=buefy)](https://github.com/jii-yeong/my-own-note-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=createdoodle&theme=buefy)](https://github.com/jii-yeong/createdoodle)
 
 </div>
 
