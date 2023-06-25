@@ -31,7 +31,7 @@
   
 ### 📖PROCECT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=my-own-note-frontend&theme=buefy)](https://github.com/jii-yeong/my-own-note-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=daily-routine&theme=buefy)](https://github.com/jii-yeong/my-own-note-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=createdoodle&theme=buefy)](https://github.com/jii-yeong/createdoodle)
 
 </div>
@@ -41,8 +41,6 @@
 <div align=center>
   
 ### 🔎GITHUB INFOMATION
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jii-Yeong&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jii-Yeong&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
