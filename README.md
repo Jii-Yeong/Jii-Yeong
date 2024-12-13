@@ -20,6 +20,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
+![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Vue&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/Vue.js-40b883?style=flat-square&logo=Vue&logoColor=ffffff)
 
 
@@ -31,7 +32,7 @@
   
 ### 📖PROCECT
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=daily-routine&theme=buefy)](https://github.com/jii-yeong/daily-routine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=yeong&theme=buefy)](https://github.com/jii-yeong/yeong)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=createdoodle&theme=buefy)](https://github.com/jii-yeong/createdoodle)
 
 </div>
@@ -40,7 +41,6 @@
 
 <div align=center>
   
-### 🔎GITHUB INFOMATION
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jii-Yeong&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
