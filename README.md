@@ -25,22 +25,3 @@
 
 
 </div>
-
-<br>
-
-<div align=center>
-  
-### 📖PROCECT
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=yeong&theme=buefy)](https://github.com/jii-yeong/yeong)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jii-Yeong&repo=createdoodle&theme=buefy)](https://github.com/jii-yeong/createdoodle)
-
-</div>
-
-<br>
-
-<div align=center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jii-Yeong&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
